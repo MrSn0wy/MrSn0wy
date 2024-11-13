@@ -1,5 +1,11 @@
 ## Hi there 👋
+I'm silly guy that likes to do backend and frontend development.
+My preferred language is Rust! 🦀
 
+Currently working on: 
+- Fpps4.net: A website for the fpps4 ps4 emulator.
+- Teleport commands: A minecraft server-side mod that has verious teleportation commands
+- And alot of other projects!
 <!--
 **MrSn0wy/MrSn0wy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
