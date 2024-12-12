@@ -1,22 +1,12 @@
-## Hi there 👋
-I'm silly guy that likes to do backend and frontend development.
-My preferred language is Rust! 🦀
+## heya 👋
+I'm a silly guy that likes to make silly things. I like Rust and Linux 🦀
+
+- **Used languages**: Rust, Java, _php_, js/ts, python.
+- **My current distro**: Fedora.
+- **Previously mained distros**: Arch linux, NixOS, Gentoo.
+
 
 Currently working on: 
-- Fpps4.net: A website for the fpps4 ps4 emulator.
-- Teleport commands: A minecraft server-side mod that has verious teleportation commands
+- **fpps4.net**: A website for the fpPS4 ps4 emulator, might actually finish it some time.
+- **Teleport commands**: A minecraft server-side mod that adds various teleportation related commands.
 - And alot of other projects!
-<!--
-**MrSn0wy/MrSn0wy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
