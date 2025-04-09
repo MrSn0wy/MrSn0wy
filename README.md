@@ -2,8 +2,8 @@
 I'm a silly guy that likes to make silly things. I like Rust and Linux 🦀
 
 - **Used languages**: Rust, Java, _php_, js/ts, python.
-- **My current distro**: Fedora.
-- **Previously mained distros**: Arch linux, NixOS, Gentoo.
+- **My current distro**: Arch Linux
+- **Previously mained distros**: CachyOS, Fedora, NixOS, Gentoo.
 
 
 Currently working on: 
