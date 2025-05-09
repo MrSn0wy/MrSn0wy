@@ -11,4 +11,4 @@ Currently working on:
 - **Teleport commands**: A minecraft server-side mod that adds various teleportation related commands.
 - And alot of other projects!
 
-Incase you need to contact me, you can contact me on discord: ``mrsnowy_``
+Incase you need to contact me, you can contact me on my email: ``snow@mrsnowy.dev`` or message me on discord: ``mrsnowy_``
