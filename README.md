@@ -10,3 +10,5 @@ Currently working on:
 - **fpps4.net**: A website for the fpPS4 ps4 emulator, might actually finish it some time.
 - **Teleport commands**: A minecraft server-side mod that adds various teleportation related commands.
 - And alot of other projects!
+
+Incase you need to contact me, you can contact me on discord: ``mrsnowy_``
