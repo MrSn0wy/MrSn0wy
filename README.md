@@ -1,7 +1,7 @@
 ## heya 👋
-I'm a silly guy that likes to make silly things. I like Rust and Linux 🦀
+I'm a silly guy that likes to make silly things. I like Rust, Linux, sysadmin and networking. 🦀
 
-- **Used languages**: Rust, Java, _php_, js/ts, python.
+- **Used languages**: Rust, Java, Nix, _php_, js/ts (+ html/css) and python.
 - **My current distro**: NixOS <3
 - **Previously mained distros**: Arch Linux, CachyOS, Fedora, Gentoo.
 
@@ -11,9 +11,9 @@ Currently maintaining:
 
 And im working on alot of other projects that are functional or cool to me :3!
 
-Incase you need to contact me, you can contact me on my email: ``snow@mrsnowy.dev`` or message me on discord: ``mrsnowy_``
+Incase you need to contact me, you can contact me on my email: ``snow@mrsnowy.dev`` (warning: it might NOT work lol, its wip) or message me on discord: ``mrsnowy_``. You can use the GPG key that I also use for commit signing if you want to message me privately :P.
 
-I'm also more active on this forgejo git instance since I dislike github and microsoft, so if you want to checkout my more experimental and deranged things, here it is: https://git.killuaa.dev/Snow.
-I will still use github for discoverability reasons of certain projects.
+I'm also more active on this forgejo git hosted by my great friend. So if you want to checkout my more experimental and deranged things, here it is: https://git.killuaa.dev/Snow.
+I will still use github for discoverability reasons for certain projects.
 
 *God why is github's markdown formatting so weird, I'm so used to Obsididan's..*
